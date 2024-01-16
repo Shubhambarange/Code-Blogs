@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code-Blogs/static/css/main.93737531.css",
+    "main.js": "/Code-Blogs/static/js/main.2076e9e5.js",
+    "index.html": "/Code-Blogs/index.html",
+    "main.93737531.css.map": "/Code-Blogs/static/css/main.93737531.css.map",
+    "main.2076e9e5.js.map": "/Code-Blogs/static/js/main.2076e9e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93737531.css",
+    "static/js/main.2076e9e5.js"
+  ]
+}
